@@ -1,0 +1,1 @@
+This is the entrypage of a website made for jaggi Industries using React JS and other related programming languages and frameworks
